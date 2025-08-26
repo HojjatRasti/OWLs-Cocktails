@@ -1,12 +1,71 @@
-# React + Vite
+# 🦉 OWL Cocktails  
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A modern, animated landing page for cocktail lovers. Built with **React**, **Vite**, and **GSAP** for smooth and creative animations.  
 
-Currently, two official plugins are available:
+## ✨ Features  
+- ⚡️ **Fast development** with Vite  
+- 🎨 **Smooth animations** powered by GSAP  
+- 📱 **Responsive design** (mobile-first)  
+- 🍸 **Beautiful UI** crafted for showcasing cocktails  
+- 🔥 Clean and maintainable code structure  
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🛠️ Tech Stack  
+- **React 19** (functional components + hooks)  
+- **Vite** (lightning-fast build tool)  
+- **GSAP** (GreenSock Animation Platform)  
+- **TailwindCSS** (optional, if you used it for styling)  
 
-## Expanding the ESLint configuration
+## 🚀 Getting Started  
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+Clone the repository and install dependencies:  
+
+```bash
+git clone https://github.com/your-username/owl-cocktails.git
+cd owl-cocktails
+npm install
+````
+
+Run the development server:
+
+```bash
+npm run dev
+```
+
+Build for production:
+
+```bash
+npm run build
+```
+
+Preview production build:
+
+```bash
+npm run preview
+```
+
+## 📂 Project Structure
+
+```
+owl-cocktails/
+│── public/          # Static assets  
+│── src/  
+│   ├── components/  # Reusable UI components  
+│   ├── App.jsx      # Main app component  
+│   └── main.jsx     # Entry point  
+│── index.html  
+│── package.json  
+│── vite.config.js  
+└── README.md  
+```
+
+## 🎬 Animations
+
+OWL Cocktails uses **GSAP timelines** for:
+
+* Smooth section transitions
+* Hero text and image reveals
+* Cocktail cards hover effects
+
+## 🌍 Live Demo
+
+
