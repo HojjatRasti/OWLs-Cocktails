@@ -1,4 +1,4 @@
-# 🦉 OWL Cocktails  
+# 🦉🍸 OWL Cocktails  
 
 A modern, animated landing page for cocktail lovers. Built with **React**, **Vite**, and **GSAP** for smooth and creative animations.  
 
